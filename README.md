@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Sheikh Ashikur Rahman<br>👨‍💻 Web Developer passionate about building responsive websites & diving into Ethical Hacking for better cybersecurity.<br>🌱 Currently learning Kali Linux, Advanced JavaScript, and ethical hacking techniques.<br>💞 Looking to collaborate on web projects and cybersecurity initiatives.<br>📫 Reach me on LinkedIn or Instagram.<br>⚡ Fun fact: I love upgrading my PC for better performance!</p>
+<p align="left">👋 Hi, I’m SAR Ashik<br>👨‍💻 Web Developer passionate about building responsive websites & diving into Ethical Hacking for better cybersecurity.<br>🌱 Currently learning Kali Linux, Advanced JavaScript, and ethical hacking techniques.<br>💞 Looking to collaborate on web projects and cybersecurity initiatives.<br>📫 Reach me on LinkedIn or Instagram.<br>⚡ Fun fact: I love upgrading my PC for better performance!</p>
 
 ###
 
