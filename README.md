@@ -28,6 +28,9 @@
   <a href="https://www.facebook.com/AshikurRahman.Axon" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  <a href="https://x.com/Ashiqur001" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/x/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
