@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Sheikh Ashikur Rahman and I am a Web Developer, from Bangladesh.</p>
+<h4 align="center">My name is Sheikh Ashikur Rahman and I am a Web Developer, from Bangladesh.</h4>
 
 ###
 
